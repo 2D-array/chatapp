@@ -17,7 +17,7 @@ A real-time chat web application built with **React**, **Node.js (Express)**, **
 ### Frontend:
 - **React.js** (UI development)
 - **React Router** (Navigation)
-- **TailwindCSS / Material-UI** (Styling)
+- **TailwindCSS / Daisy ui** (Styling)
 - **Axios** (API calls)
 
 ### Backend:
