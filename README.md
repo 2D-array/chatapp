@@ -5,7 +5,7 @@ A real-time chat web application built with **React**, **Node.js (Express)**, **
 ## 🚀 Features
 
 - **Real-time messaging** with **WebSockets (Socket.io)**
-- **Authentication system** using **JWT** & **Google OAuth**
+- **Authentication system** using **JWT**
 - **MongoDB** integration with **Mongoose** for data storage
 - **User-friendly UI** built with **React.js**
 - **Secure backend** with **Express.js** and **Node.js**
